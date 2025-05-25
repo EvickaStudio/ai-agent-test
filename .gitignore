@@ -10,7 +10,7 @@ wheels/
 .venv
 
 # Output
-output/
+*.html
 db/
 
 # .env
